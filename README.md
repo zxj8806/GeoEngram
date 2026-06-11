@@ -1,6 +1,6 @@
-# Geometric-Aware Engram Consolidation for Continual Learning
+# Brain-Inspired Geometric Memory Consolidation for Continual Neuromorphic Perception
 This repository contains the official implementation of the paper<br>
-**“Geometric-Aware Engram Consolidation for Continual Learning.”**
+**“Brain-Inspired Geometric Memory Consolidation for Continual Neuromorphic Perception.”**
 
 ---
 
